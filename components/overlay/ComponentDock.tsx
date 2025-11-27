@@ -1,0 +1,1 @@
+// This file is deprecated in favor of Sidebar.tsx and PartCard.tsx
